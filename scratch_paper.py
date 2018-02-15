@@ -1,2 +1,3 @@
-for i in range(0,255):
-    print(i)
+l = ["a","b","c"]
+tuple(l)
+print(tuple(l))
